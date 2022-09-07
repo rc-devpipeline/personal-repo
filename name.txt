@@ -1,1 +1,19 @@
 My name is Ryan Curtis 
+
+** Workflow
+- New repo:
+ --Local
+ > git init
+ > Worked on our changes
+ > git add .
+ > git commit -m "first commit" **OR** "initial commit"
+
+ --Remote (Github)
+ > Login
+ > Create a Repository (named same or similar to local project)
+ > Go back to the local git repo, add remote, change master branch to main, push commit history
+   >> (copy commands from github, paste into terminal)
+
+
+** Helpful
+> git status
