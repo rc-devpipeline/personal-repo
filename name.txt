@@ -13,6 +13,16 @@ My name is Ryan Curtis
  > Create a Repository (named same or similar to local project)
  > Go back to the local git repo, add remote, change master branch to main, push commit history
    >> (copy commands from github, paste into terminal)
+	 > git push -u origin main
+
+- Working Repository:
+ --Local
+ > If this is a new feature:
+  > git checkout -b <branch-name>
+	> Development
+	> git add .
+	> git commit -m "explicit but short message explaining changes"
+	> git push -u <remote> <branch-name>
 
 
 ** Helpful
