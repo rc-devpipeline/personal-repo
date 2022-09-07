@@ -23,7 +23,10 @@ My name is Ryan Curtis
 	> git add .
 	> git commit -m "explicit but short message explaining changes"
 	> git push -u <remote> <branch-name>
-
+ > Current feature
+  > git add .
+	> git commit -m "<message>"
+	> git push
 
 ** Helpful
 > git status
